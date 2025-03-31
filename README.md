@@ -13,6 +13,7 @@ Real-time image generation with loading indicators.
 Responsive UI with dynamic image display.
 
 
+
 **Technologies Used**
 
 Frontend: HTML, CSS, JavaScript
@@ -20,6 +21,7 @@ Frontend: HTML, CSS, JavaScript
 API: Hugging Face AI Inference API
 
 UI Frameworks: Font Awesome (for icons)
+
 
 
 **Setup Instructions**
@@ -42,10 +44,3 @@ Open script.js and replace API_KEY with your actual Hugging Face API key.
 
 Open index.html in a browser.
 
-
-**File Structure**
-index.html → Main UI structure.
-
-style.css → Styles for the application.
-
-script.js → Handles API requests and image generation logic.
